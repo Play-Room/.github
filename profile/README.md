@@ -1,4 +1,4 @@
-<img width="1345" height="873" alt="image" src="https://github.com/user-attachments/assets/b47fb344-5c18-4ed1-8486-dee9b43698f4" />
+<img width="2560" height="1440" alt="playroom_2560x1440_no_crop" src="https://github.com/user-attachments/assets/aed03c79-7b20-4fee-b71e-3df5be3c22e6" />
 
 # PlayRoom
 
